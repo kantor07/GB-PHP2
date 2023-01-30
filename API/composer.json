@@ -1,0 +1,17 @@
+{
+    "name": "php2/api",
+    "autoload": {
+        "psr-4": {
+            "GB\\API\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valentina Saraeva",
+            "email": "ktoto@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21"
+    }
+}
